@@ -1,7 +1,4 @@
-<h1 align="center">
-  <a href="https://tylermcginnis.com"><img src="https://tylermcginnis.com/tylermcginnis_glasses-300.png" alt="TylerMcGinnis.com Logo" width="300"></a>
-  <br>
-</h1>
+
 
 <h3 align="center">React Hooks Course Project - <a href="https://tm.dev/react-course-project/">Github Battle App</a></h3>
 
